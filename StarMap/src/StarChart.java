@@ -1,5 +1,3 @@
-/** Kevin Paul, 4B*/
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
