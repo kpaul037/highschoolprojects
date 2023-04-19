@@ -1,5 +1,3 @@
-/** Kevin Paul, 4B*/
-
 import java.io.IOException;
 import java.util.ArrayList;
 
